@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+
+# dotenv
+.env
+
+# AoC inputs
+days/*/input.txt
+days/*/example.txt
