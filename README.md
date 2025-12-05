@@ -1,18 +1,3 @@
-Below is a clean, polished **README.md** for your repository.
-It explains:
-
-* How the project is structured
-* How `run.py` works
-* Where `aoc_client` and `utils` live
-* How to create new day directories
-* How to write solutions
-* How inputs are automatically downloaded
-* How to configure environment variables
-
-All details are taken from your actual source files (and cited).
-
----
-
 # 📘 Advent of Code — Python Runner
 
 This repository provides a lightweight framework for solving **Advent of Code** puzzles.
