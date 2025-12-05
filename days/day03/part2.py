@@ -27,7 +27,6 @@ def solve(data):
             digits_list.append(max_val)
             # total_joltage = total_joltage + int(str(max_left_val)+str(max_right_val))
         result = "".join(str(d) for d in digits_list)
-        print(result)
         total_joltage = total_joltage + int(result)
     return total_joltage
 
